@@ -1,0 +1,126 @@
+Employee:
+	Basic Info:
+			id
+			name
+			age
+			gender
+			date of birth
+	Address Info:
+			current address
+			perminent address
+			state
+			city
+			country
+			postal code
+	Contact Info:
+			phone number
+			email
+			emargancy contact
+	Work Info:
+			company id
+			branch id
+			department id
+			position id
+			level id
+			manager id
+	Salary Info:
+			gross salary
+			tax
+			net salary
+			appraisal
+			deduction
+	Background
+			education
+			certficates
+			work experince
+			skills
+
+Company:
+	Basic Info:
+			id
+			name
+	Address Info:
+			current address
+			perminent address
+			state
+			city
+			country
+			postal code
+	Contact Info:
+			phone number
+			email
+			fax
+			website
+	Work Info:
+			branch id
+			manager id
+			employee id
+	Background
+			description
+
+
+Branch:
+	Basic Info:
+			id
+			name
+	Address Info:
+			current address
+			perminent address
+			state
+			city
+			country
+			postal code
+	Contact Info:
+			phone number
+			email
+			website
+			fax
+	Work Info:
+			department id
+			manager id
+			employee id
+	Background
+			description
+
+Department:
+	Basic Info:
+			id
+			name
+	Address Info:
+			current address
+			perminent address
+			city
+			country
+			postal code
+	Contact Info:
+			phone number
+			email
+			website 
+			fax
+	Work Info:
+			position id
+			manager id
+			employee id
+	Background
+			description
+
+Position:
+	Basic Info:
+			id
+			name
+	Work Info:
+			level id
+			manager id
+			employee id
+	Background
+			description
+
+Level:
+	Basic Info:
+			id
+			name
+	Work Info:
+			manager id
+			employee id
+	Background
+			description

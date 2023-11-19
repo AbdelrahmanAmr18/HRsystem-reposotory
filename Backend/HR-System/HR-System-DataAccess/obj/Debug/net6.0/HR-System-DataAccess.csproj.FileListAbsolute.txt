@@ -1,0 +1,17 @@
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-DataAccess\bin\Debug\net6.0\HR-System-DataAccess.deps.json
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-DataAccess\bin\Debug\net6.0\HR-System-DataAccess.runtimeconfig.json
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-DataAccess\bin\Debug\net6.0\HR-System-DataAccess.dll
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-DataAccess\bin\Debug\net6.0\HR-System-DataAccess.pdb
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-DataAccess\bin\Debug\net6.0\HR-System-Domain.dll
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-DataAccess\bin\Debug\net6.0\HR-System-Domain.pdb
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-DataAccess\obj\Debug\net6.0\HR-System-DataAccess.csproj.AssemblyReference.cache
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-DataAccess\obj\Debug\net6.0\HR-System-DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-DataAccess\obj\Debug\net6.0\HR-System-DataAccess.AssemblyInfoInputs.cache
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-DataAccess\obj\Debug\net6.0\HR-System-DataAccess.AssemblyInfo.cs
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-DataAccess\obj\Debug\net6.0\HR-System-DataAccess.csproj.CoreCompileInputs.cache
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-DataAccess\obj\Debug\net6.0\HR-System-DataAccess.csproj.CopyComplete
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-DataAccess\obj\Debug\net6.0\HR-System-DataAccess.dll
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-DataAccess\obj\Debug\net6.0\refint\HR-System-DataAccess.dll
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-DataAccess\obj\Debug\net6.0\HR-System-DataAccess.pdb
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-DataAccess\obj\Debug\net6.0\HR-System-DataAccess.genruntimeconfig.cache
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-DataAccess\obj\Debug\net6.0\ref\HR-System-DataAccess.dll
