@@ -1,0 +1,11 @@
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-Domain\bin\Debug\net6.0\HR-System-Domain.deps.json
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-Domain\bin\Debug\net6.0\HR-System-Domain.dll
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-Domain\bin\Debug\net6.0\HR-System-Domain.pdb
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-Domain\obj\Debug\net6.0\HR-System-Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-Domain\obj\Debug\net6.0\HR-System-Domain.AssemblyInfoInputs.cache
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-Domain\obj\Debug\net6.0\HR-System-Domain.AssemblyInfo.cs
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-Domain\obj\Debug\net6.0\HR-System-Domain.csproj.CoreCompileInputs.cache
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-Domain\obj\Debug\net6.0\HR-System-Domain.dll
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-Domain\obj\Debug\net6.0\refint\HR-System-Domain.dll
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-Domain\obj\Debug\net6.0\HR-System-Domain.pdb
+D:\z   P r o j e c t s\HRsystem\Backend\HR-System\HR-System-Domain\obj\Debug\net6.0\ref\HR-System-Domain.dll
