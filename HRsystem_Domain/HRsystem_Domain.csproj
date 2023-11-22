@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Entities\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="HRsystem_DataAccess">
+      <HintPath>..\HRsystem_DataAccess\bin\Debug\net6.0\HRsystem_DataAccess.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

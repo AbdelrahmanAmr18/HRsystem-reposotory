@@ -1,0 +1,15 @@
+D:\z   P r o j e c t s\HRsystem\BackendV2\HRsystem\HRsystem_Domain\obj\Debug\net6.0\HRsystem_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\z   P r o j e c t s\HRsystem\BackendV2\HRsystem\HRsystem_Domain\obj\Debug\net6.0\HRsystem_Domain.AssemblyInfoInputs.cache
+D:\z   P r o j e c t s\HRsystem\BackendV2\HRsystem\HRsystem_Domain\obj\Debug\net6.0\HRsystem_Domain.AssemblyInfo.cs
+D:\z   P r o j e c t s\HRsystem\BackendV2\HRsystem\HRsystem_Domain\obj\Debug\net6.0\HRsystem_Domain.csproj.CoreCompileInputs.cache
+D:\z   P r o j e c t s\HRsystem\BackendV2\HRsystem\HRsystem_Domain\bin\Debug\net6.0\HRsystem_Domain.deps.json
+D:\z   P r o j e c t s\HRsystem\BackendV2\HRsystem\HRsystem_Domain\bin\Debug\net6.0\HRsystem_Domain.dll
+D:\z   P r o j e c t s\HRsystem\BackendV2\HRsystem\HRsystem_Domain\bin\Debug\net6.0\HRsystem_Domain.pdb
+D:\z   P r o j e c t s\HRsystem\BackendV2\HRsystem\HRsystem_Domain\obj\Debug\net6.0\HRsystem_Domain.dll
+D:\z   P r o j e c t s\HRsystem\BackendV2\HRsystem\HRsystem_Domain\obj\Debug\net6.0\refint\HRsystem_Domain.dll
+D:\z   P r o j e c t s\HRsystem\BackendV2\HRsystem\HRsystem_Domain\obj\Debug\net6.0\HRsystem_Domain.pdb
+D:\z   P r o j e c t s\HRsystem\BackendV2\HRsystem\HRsystem_Domain\obj\Debug\net6.0\ref\HRsystem_Domain.dll
+D:\z   P r o j e c t s\HRsystem\BackendV2\HRsystem\HRsystem_Domain\bin\Debug\net6.0\HRsystem_DataAccess.dll
+D:\z   P r o j e c t s\HRsystem\BackendV2\HRsystem\HRsystem_Domain\bin\Debug\net6.0\HRsystem_DataAccess.pdb
+D:\z   P r o j e c t s\HRsystem\BackendV2\HRsystem\HRsystem_Domain\obj\Debug\net6.0\HRsystem_Domain.csproj.AssemblyReference.cache
+D:\z   P r o j e c t s\HRsystem\BackendV2\HRsystem\HRsystem_Domain\obj\Debug\net6.0\HRsystem_Domain.csproj.CopyComplete
